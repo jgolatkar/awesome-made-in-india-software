@@ -9,7 +9,7 @@ Thank you for helping spread awareness about Indian tech ❤️🇮🇳
 - No spam, affiliate links, or promotional-only submissions
 
 ## Format
-| Product | Description | Company | Tech Stack | Website |
+| Product | Description | Company | Website |
 
 ## Notes
 - One product per PR (preferred)
